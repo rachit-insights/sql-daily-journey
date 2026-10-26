@@ -1,6 +1,6 @@
 # SQL Daily Journey
 
-My daily SQL practice on LeetCode, documented with accepted-submission screenshots.
+My daily SQL practice across coding platforms, documented with accepted-submission screenshots.
 
 **Language:** MySQL  
 **Started:** 26 October 2026
