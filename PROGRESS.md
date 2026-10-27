@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 2 — 27 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | LeetCode | [View](screenshots/2026-10-27/1683-accepted.png) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | LeetCode | [View](screenshots/2026-10-27/1148-accepted.png) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | LeetCode | [View](screenshots/2026-10-27/620-accepted.png) |
+
 ## Day 1 — 26 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
