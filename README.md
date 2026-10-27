@@ -10,8 +10,9 @@ My daily SQL practice across coding platforms, documented with accepted-submissi
 | Date | Problems | Topics |
 |---|---:|---|
 | 26 Oct 2026 | 3 | SELECT, WHERE, AND, OR, NULL |
+| 27 Oct 2026 | 3 | String Functions, DISTINCT, Filtering, ORDER BY |
 
-**Total problems documented:** 3  
-**Active days:** 1
+**Total problems documented:** 6  
+**Active days:** 2
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
