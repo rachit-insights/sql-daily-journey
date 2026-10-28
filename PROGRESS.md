@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 3 — 28 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | LeetCode | [View](screenshots/2026-10-28/596-accepted.png) |
+
 ## Day 2 — 27 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
