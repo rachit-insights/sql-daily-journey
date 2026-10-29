@@ -1,5 +1,12 @@
 # Solved Problems
 
+## Day 4 — 29 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | LeetCode | [View](screenshots/2026-10-29/1068-accepted.png) |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | LeetCode | [View](screenshots/2026-10-29/1527-accepted.png) |
+
 ## Day 3 — 28 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
