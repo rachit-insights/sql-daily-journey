@@ -1,5 +1,12 @@
 # Solved Problems
 
+## Day 5 — 30 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | LeetCode | [View](screenshots/2026-10-30/577-accepted.png) |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | LeetCode | [View](screenshots/2026-10-30/1075-accepted.png) |
+
 ## Day 4 — 29 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
