@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 6 — 31 October 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | LeetCode | [View](screenshots/2026-10-31/182-accepted.png) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | LeetCode | [View](screenshots/2026-10-31/181-accepted.png) |
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | LeetCode | [View](screenshots/2026-10-31/1407-accepted.png) |
+
 ## Day 5 — 30 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
