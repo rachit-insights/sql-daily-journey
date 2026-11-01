@@ -15,8 +15,9 @@ My daily SQL practice across coding platforms, documented with accepted-submissi
 | 29 Oct 2026 | 2 | INNER JOIN, Pattern Matching, LIKE |
 | 30 Oct 2026 | 2 | LEFT JOIN, NULL, AVG, ROUND, GROUP BY |
 | 31 Oct 2026 | 3 | GROUP BY, HAVING, Self JOIN, LEFT JOIN, COALESCE, SUM, ORDER BY |
+| 1 Nov 2026 | 1 | LEFT JOIN, NULL, Filtering |
 
-**Total problems documented:** 14  
-**Active days:** 6
+**Total problems documented:** 15  
+**Active days:** 7
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
