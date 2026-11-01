@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 7 — 1 November 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | LeetCode | [View](screenshots/2026-11-01/183-accepted.png) |
+
 ## Day 6 — 31 October 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
