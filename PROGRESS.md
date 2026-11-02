@@ -1,5 +1,12 @@
 # Solved Problems
 
+## Day 8 — 2 November 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | LeetCode | [View](screenshots/2026-11-02/1378-accepted.png) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | LeetCode | [View](screenshots/2026-11-02/175-accepted.png) |
+
 ## Day 7 — 1 November 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
