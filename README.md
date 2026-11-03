@@ -17,8 +17,9 @@ My daily SQL practice across coding platforms, documented with accepted-submissi
 | 31 Oct 2026 | 3 | GROUP BY, HAVING, Self JOIN, LEFT JOIN, COALESCE, SUM, ORDER BY |
 | 1 Nov 2026 | 1 | LEFT JOIN, NULL, Filtering |
 | 2 Nov 2026 | 2 | LEFT JOIN, Table Aliases, NULL |
+| 3 Nov 2026 | 3 | Subquery, MAX, GROUP BY, COUNT, HAVING, Self JOIN, ORDER BY |
 
-**Total problems documented:** 17  
-**Active days:** 8
+**Total problems documented:** 20  
+**Active days:** 9
 
 See [Solved Problems](PROGRESS.md) for problem names, numbers, and screenshots.
