@@ -1,5 +1,13 @@
 # Solved Problems
 
+## Day 9 — 3 November 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | LeetCode | [View](screenshots/2026-11-03/176-accepted.png) |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | LeetCode | [View](screenshots/2026-11-03/1729-accepted.png) |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | LeetCode | [View](screenshots/2026-11-03/570-accepted.png) |
+
 ## Day 8 — 2 November 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
