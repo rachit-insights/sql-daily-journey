@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 10 — 4 November 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | LeetCode | [View](screenshots/2026-11-04/2356-accepted.png) |
+
 ## Day 9 — 3 November 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
