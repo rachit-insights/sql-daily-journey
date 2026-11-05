@@ -1,5 +1,11 @@
 # Solved Problems
 
+## Day 11 — 5 November 2026
+
+| # | Problem | Difficulty | Platform | Screenshot |
+|---|---|---|---|---|
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | LeetCode | [View](screenshots/2026-11-05/197-accepted.png) |
+
 ## Day 10 — 4 November 2026
 
 | # | Problem | Difficulty | Platform | Screenshot |
